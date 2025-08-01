@@ -7,7 +7,7 @@
   "typings": "index.d.ts",
   "author": "David <david.han.jn@gmail.com>",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/DaveSteven/loopupai-webview.git#readme",
   "scripts": {
     "android": "react-native run-android",
