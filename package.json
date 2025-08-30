@@ -1,5 +1,5 @@
 {
-  "name": "loopupai-webview",
+  "name": "@jiajiaclass/webview",
   "description": "React Native WebView component for iOS, Android, macOS, and Windows",
   "main": "index.js",
   "main-internal": "src/index.ts",
